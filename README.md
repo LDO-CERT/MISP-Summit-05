@@ -10,3 +10,4 @@ After "Master of Cluster" presented last year, the new work is focused on how to
 Starting from pure python, it will be shown multiprocessing, numpy, cython, dask, arriving to dask-cuda with cupy: A NumPy-compatible matrix library accelerated by CUDA. The study explored also differents places to store and retrieve data such as Neo4j, MongoDB, PostgreSQL, zarr and different data format like strings, numpy vectors and numpy packbits vectors.
 
 Online presentation available here: https://ldo-cert.github.io/MISP-Summit-05/#/home
+Recording available here: https://www.youtube.com/watch?v=X33f6xTx3kQ
